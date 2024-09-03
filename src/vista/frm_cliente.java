@@ -12,13 +12,10 @@ import modelo.Cliente;
 
 /**
  *
- * @author paiz2
+ * @author keila
  */
 public class frm_cliente extends javax.swing.JFrame {
 
-    /**
-     * Creates new form frm_cliente
-     */
 Cliente obj_cliente;
 
     public frm_cliente() {
